@@ -14,7 +14,7 @@ Nuestra metodología se basa en la colaboración, la claridad y el uso efectivo 
 
 | Tema | Herramienta | Propósito |
 | :--- | :--- | :--- |
-| **Conversaciones Rápidas** | **[Slack / Discord]** | Preguntas rápidas, avisos urgentes, solicitudes de Live Share. |
+| **Conversaciones Rápidas** | **Slack** | Preguntas rápidas, avisos urgentes, solicitudes de Live Share. |
 | **Revisión de Código** | **GitHub Pull Requests** | Proceso formal para la validación y fusión de código (Code Review). |
 | **Enseñanza Sincrónica** | **VS Code Live Share** | Programación en parejas y resolución de bloqueos en tiempo real. |
 
